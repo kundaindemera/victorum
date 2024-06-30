@@ -37,7 +37,8 @@ hr{
   width: 300px;
   float: left;
   margin-right: 20px;
-  margin-bottom: 30px
+  margin-bottom: 30px;
+  border-radius: 8px;
 }
 
 .card{
