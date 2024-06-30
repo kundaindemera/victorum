@@ -16,7 +16,7 @@ h1 {
 }
 
 hr{
-  height: 1px;
+  height: 0.5px;
   background-color: rgb(20, 20, 20);
 }
 
@@ -39,7 +39,7 @@ hr{
   float: left;
   margin-right: 20px;
   margin-bottom: 30px;
-  border-radius: 6px
+  border-radius: 6px;
 }
 
 .card{
