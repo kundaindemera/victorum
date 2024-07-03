@@ -31,14 +31,34 @@ hr{
 .right{ 
   float: right;
   margin-top: 30px;
+  background-color: #cac8c8;
+  color: rgb(0, 0, 0);
+  margin-bottom: 30px;
+  border: 2px solid rgb(0, 0, 0);
+  width: 30%;
+  text-align: center;
+  padding-right: 25px;
+}
+
+.form{
+  width: 100%;
+}
+
+.contact{
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+
 }
 
 .tile-image{
-  height: 200px;
-  width: 300px;
+  
+  
   float: left;
   margin-right: 20px;
-  margin-bottom: 30px;
+  margin-left: 180px;
   border-radius: 6px;
 }
 
@@ -53,11 +73,12 @@ hr{
 
 .subhead{
   font-size: 2rem;
+  margin-bottom :50px;
 }
 
 .subsub{
   margin-top: -25px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 .copyright{
   margin-bottom: 0px;
@@ -113,16 +134,19 @@ hr{
   
   .right{
     float: none;
+    margin-left: 10px;
   }
   
   .tile-image{
     height: 200px;
     width: 250px;
     float: left;
-    margin-bottom: 10px 
+    
   }
   
   
 }
+
+
 
 
